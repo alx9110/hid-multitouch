@@ -43,7 +43,6 @@
 
 MODULE_AUTHOR("Stephane Chatty <chatty@enac.fr>");
 MODULE_AUTHOR("Benjamin Tissoires <benjamin.tissoires@gmail.com>");
-MODULE_AUTHOR("Alexander Telkov <alx9110@yandex.ru>");
 MODULE_DESCRIPTION("HID multitouch panels");
 MODULE_LICENSE("GPL");
 
